@@ -2,5 +2,5 @@
 ## "La boîte d'ambiance"
 
 Membres de l'équipe : 
-* Sixtine Delvallée @Lawberryy ;
-* Thibaut François
+* Sixtine Delvallée @Lawberryy
+* Thibaut François @Vorn-Hagen
